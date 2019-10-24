@@ -1,9 +1,9 @@
 {
-  "name": "coder",
-  "version": "2.0.0",
+  "name": "custom-coder",
+  "version": "2.0.1",
   "author": {
-    "name": "D",
-    "email": "dongrify@gmail.com"
+    "name": "Igor Kurek",
+    "email": "igorkurek96@gmail.com"
   },
   "keywords": [
     "ghost-theme"
