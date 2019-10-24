@@ -5,7 +5,7 @@ Coderer is based on original [Coder Theme](https://github.com/dongri/Coder "Code
 
 ## Screenshots
 ![Home Page Screenshot](screenshots/home.png)
-![Article Screenshot](screenshots/home.png)
+![Article Screenshot](screenshots/article.png)
 
 ## What's working and wht's not
 Current version (2.0.1) is fully functional for any Ghost installation below version 3.0.0. I'm currently working for updating this project for latest Ghost release. So far, it's missing given classes:
@@ -22,3 +22,4 @@ Current version (2.0.1) is fully functional for any Ghost installation below ver
 * .kg-bookmark-author
 * .kg-bookmark-publisher
 * .kg-bookmark-thumbnail
+Everything except `bookmarks` and `gallery` screens is fully themed.
